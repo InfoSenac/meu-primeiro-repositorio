@@ -12,7 +12,3 @@ Bem-vindo ao meu primeiro repositório no **GitHub**.
 
 1. Git e Git Bash
 1. Visual Studio Code
-
-### MODIFICAÇÃO
-
-DAFDFDFDFSGSFG
