@@ -13,3 +13,17 @@ Bem-vindo ao meu primeiro repositório no **GitHub**.
 1. Git
 1. Git Bash
 1. Visual Studio Code
+
+```mermaid
+flowchart TD
+    A[Start] --> B{Is it working?}
+    B -->|Yes| C[Great!]
+    B -->|No| D[Debug code]
+    D --> B
+    C --> E[End]
+```
+
+
+```code
+    adjsajfnjdnfvjdnvjncvncjnvjc
+```
